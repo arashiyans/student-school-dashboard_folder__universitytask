@@ -1,10 +1,7 @@
 # student-school-dashboard
 
 1. **Buka Halaman Utama**:
-Buka file `index.html` di peramban web Anda untuk melihat halaman utama website.
-
-2. **Jelajahi Website**:
-Jelajahi berbagai halaman yang ada dalam website ini dengan mengklik tautan di menu navigasi.
+Buka file `index.html` di menggunakan Visual Studio Code atau software lain yang mendukung penampilan hasil code. Lalu upload semua file dan folder yang ada di dalam repository untuk melihat semua aset yang ada di Website tersebut.
 
 ## Kontribusi
 
